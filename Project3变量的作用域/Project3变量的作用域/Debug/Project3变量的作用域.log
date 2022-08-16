@@ -1,0 +1,6 @@
+﻿  傻狗子刚才不知道为什么叫叫叫 源.c
+  傻缺狗子今天很乖啊，源.cpp
+傻缺狗子今天很乖啊，源.obj : error LNK2001: 无法解析的外部符号 "int g_gza" (?g_gza@@3HA)
+    已定义且可能匹配的符号上的提示:
+      _g_gza
+D:\Program Files (x86)\傻缺娃子\Project3变量的作用域\Debug\Project3变量的作用域.exe : fatal error LNK1120: 1 个无法解析的外部命令
